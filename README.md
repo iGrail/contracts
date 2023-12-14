@@ -1,6 +1,6 @@
 # Grail Inu | decentralized peer-to-peer digital currency on Arbitrum Network
 
-🐕‍Where to buy? PancakeSwap: https://app.camelot.exchange
+🐕‍Where to buy? Camelot Exchange: https://app.camelot.exchange
 
 
 🐕‍Where to view chart? Dextools: https://dexscreener.com/arbitrum/0xa3c9d20cb101c7776fc7d0edf137c2dde267aa1f
